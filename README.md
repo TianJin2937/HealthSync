@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@TianJin2937](https://github.com/TianJin2937)
 
 Project Link: [https://github.com/yourusername/health-sync](https://github.com/yourusername/health-sync)
